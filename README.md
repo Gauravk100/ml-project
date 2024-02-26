@@ -1,1 +1,1 @@
-# ml-project
+# Ml_disease_app
